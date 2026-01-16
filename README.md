@@ -69,6 +69,9 @@ siehe: [notebook_8](Blatt-8/Praktikum8.ipynb), [Aufgabenblatt_8](Blatt-8/WS20252
 
 ---
 ## Blatt 9
-\# TODO  
+### LSTM - Long Short Term Memory
+- Training- und Testdatensatz für LSTM vorbereiten
+- overfitting mit Dropout-layer und early stopping verhindern
+- daten zu tatsächlichen Werten scalieren (invert scaling)
 
 siehe: [notebook_9](Blatt-9/Praktikum9.ipynb), [Aufgabenblatt_9](Blatt-9/WS202526_DatenanalyseUndMl_Blatt9.pdf)
